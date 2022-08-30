@@ -1,0 +1,12 @@
+F:\Hamlet\Programación\Repositorios Git\TestFontAwesome\TestFontAwesome\bin\Debug\TestFontAwesome.exe.config
+F:\Hamlet\Programación\Repositorios Git\TestFontAwesome\TestFontAwesome\bin\Debug\TestFontAwesome.exe
+F:\Hamlet\Programación\Repositorios Git\TestFontAwesome\TestFontAwesome\bin\Debug\TestFontAwesome.pdb
+F:\Hamlet\Programación\Repositorios Git\TestFontAwesome\TestFontAwesome\bin\Debug\FontAwesome.Sharp.dll
+F:\Hamlet\Programación\Repositorios Git\TestFontAwesome\TestFontAwesome\obj\Debug\TestFontAwesome.csprojAssemblyReference.cache
+F:\Hamlet\Programación\Repositorios Git\TestFontAwesome\TestFontAwesome\obj\Debug\TestFontAwesome.Form1.resources
+F:\Hamlet\Programación\Repositorios Git\TestFontAwesome\TestFontAwesome\obj\Debug\TestFontAwesome.Properties.Resources.resources
+F:\Hamlet\Programación\Repositorios Git\TestFontAwesome\TestFontAwesome\obj\Debug\TestFontAwesome.csproj.GenerateResource.cache
+F:\Hamlet\Programación\Repositorios Git\TestFontAwesome\TestFontAwesome\obj\Debug\TestFontAwesome.csproj.CoreCompileInputs.cache
+F:\Hamlet\Programación\Repositorios Git\TestFontAwesome\TestFontAwesome\obj\Debug\TestFontAwesome.csproj.CopyComplete
+F:\Hamlet\Programación\Repositorios Git\TestFontAwesome\TestFontAwesome\obj\Debug\TestFontAwesome.exe
+F:\Hamlet\Programación\Repositorios Git\TestFontAwesome\TestFontAwesome\obj\Debug\TestFontAwesome.pdb
